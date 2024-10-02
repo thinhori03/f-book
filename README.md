@@ -7,4 +7,3 @@ F-Book
 3. Bill management.
 4. Voucher/Coupon management.
 5. Authentication/Authorization via (OAuth, email/pasword)
-6. 
