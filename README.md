@@ -1,9 +1,16 @@
 # F-book
-F-Book
+  a book store.
 
-## main features.
-1. Book management
-2. customer/order management.
-3. Bill management.
-4. Voucher/Coupon management.
-5. Authentication/Authorization via (OAuth, email/pasword)
+## core features.
+   features that required to implement.
+### Book management
+### order management.
+### Bill management.
+   + Customer:
+   + shop:
+### Voucher/Coupon management.
+### Authentication/Authorization via (OAuth, email/pasword).
+### Selling.
+  + Customer:
+    - view **Books** info, full-text search.
+    - add **Books** to card.
