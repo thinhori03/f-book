@@ -6,8 +6,8 @@
 ### Book management
 ### order management.
 ### Bill management.
-   + Customer:
-   + shop:
+  + Customer:
+  + shop:
 ### Voucher/Coupon management.
 ### Authentication/Authorization via (OAuth, email/pasword).
 ### Selling.
