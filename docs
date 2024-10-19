@@ -1,7 +1,0 @@
-
-#= dependencies.
- - jdk         (17.*.*)
- - spring boot (3.*.*)
- - HTMX        (2.*.*)
- - thymeleaf   (via spring boot)
- - maven       (3.*.*)

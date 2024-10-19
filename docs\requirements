@@ -1,0 +1,11 @@
+
+#= requirements.
+ - jdk         (17.*.*)
+ - spring boot (3.*.*)
+ - HTMX        (2.*.*)
+ - thymeleaf   (via spring boot)
+ - maven       (3.*.*)
+ - MSSQL       (2012+)
+ - fit         (latest)
+ - text-editor (intellij or others text editor/IDE support spring boot).
+ - browser     (support ES6+)
